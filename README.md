@@ -46,6 +46,8 @@ The main dependencies for this project are:
 1. hvPlot: A high-level plotting library that leverages Bokeh to create interactive visualizations with ease.
 2. Jupyter Lab: An interactive development environment for Jupyter notebooks, providing a versatile platform for data exploration and analysis.
 
+## Dashboard
+![Co2_Emission_Dashboard](https://i.ibb.co/tzfPC0k/co2-dashboard.png")
 
 
 
